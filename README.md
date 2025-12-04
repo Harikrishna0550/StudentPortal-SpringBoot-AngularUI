@@ -1,6 +1,8 @@
 # StudentPortal-SpringBoot-AngularUI
 Open PostMan
+
 POST:http://localhost:8084/api/add
+
 <img width="1911" height="996" alt="image" src="https://github.com/user-attachments/assets/d7b4773c-d2c1-4da3-a947-7c72c3140221" />
 
 npm start
